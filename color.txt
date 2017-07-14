@@ -2,3 +2,4 @@ red
 green
 blue
 yellow
+release v1.0
